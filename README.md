@@ -1,6 +1,6 @@
 # Museum and Related Book Finder 
 
-![alt text](image-1.png)
+![alt text](image.png)
 
 # Description
 This website enables user to get art pieces when they type in an artist name and related books to that art piece
