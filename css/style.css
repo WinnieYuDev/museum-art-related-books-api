@@ -1,0 +1,67 @@
+/******************************************
+/* CSS
+/*******************************************/
+/* Box Model Hack */
+*{
+    box-sizing:border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(15, 34, 64);
+    color: rgb(255, 240, 200);
+    font-size: 40px;
+}
+
+header {
+    width:100%;
+    text-align: center;
+    padding: 20px 0;
+}
+
+h2 {
+    font-size: 100px;
+    margin: 0;
+    color: rgb(245, 210, 120);
+}
+
+header p {
+    margin-top: 10px;
+    font-size: 25px;
+    color: rgb(200, 220, 255);
+}
+
+section h1 {
+    font-size: 50px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.hidden{
+    display:none;
+}
+
+input {
+    width:15rem;   
+    border-radius: 10px; 
+}
+
+button{
+    background-color:rgb(245, 210, 120);
+    border-radius: 10px;
+    color:rgb(34, 36, 37);
+}
+
+img{
+    width: 40%;
+}
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
