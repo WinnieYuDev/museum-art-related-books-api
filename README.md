@@ -1,4 +1,4 @@
-# Musuem and Related Book Finder 
+# Museum and Related Book Finder 
 
 ![alt text](image-1.png)
 

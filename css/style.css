@@ -36,10 +36,16 @@ header p {
     color: rgb(200, 220, 255);
 }
 
-section h1 {
-    font-size: 50px;
-    margin-bottom: 15px;
-    text-align: center;
+section {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(239, 243, 247,0.2);
+}
+
+a{
+    color:white;
 }
 
 .hidden{
